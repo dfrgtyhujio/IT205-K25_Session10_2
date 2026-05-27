@@ -1,7 +1,7 @@
 playlist = []
 
 while True:
-    print('========= SHOPEE CART MANAGEMENT SYSTEM =========')
+    print('========= MENU QUẢN LÝ DANH SÁCH PHÁT =========')
     print('1. Thêm bài hát vào danh sách phát               ')
     print('2. Xem danh sách phát                            ')
     print('3. Xóa bài hát khỏi danh sách                    ')
